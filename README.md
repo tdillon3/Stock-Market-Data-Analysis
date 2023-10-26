@@ -2,7 +2,7 @@
 
 As a software engineer dedicated to deepening my understanding of data analysis and machine learning, I embarked on a project to analyze historical stock market data. This endeavor is driven by my interest in financial markets and my ambition to harness the power of data in making informed investment decisions.
 
-The dataset used for this analysis comprises historical stock prices from the market, including parameters such as opening price, closing price, highest price, lowest price, and (in some cases) trading volume. This data was sourced from [Yahoo Finance](https://finance.yahoo.com/) (please replace this with the actual source of your data).
+The dataset used for this analysis comprises historical stock prices from the market, including parameters such as opening price, closing price, highest price, lowest price, and (in some cases) trading volume. This data was sourced from [Market Watch](https://www.marketwatch.com/)
 
 The primary goal of this software is to uncover patterns and insights within the stock market, potentially guiding investment strategies and market understanding. By analyzing historical data, the software aims to answer critical questions about stock performance trends and factors influencing market movements.
 
