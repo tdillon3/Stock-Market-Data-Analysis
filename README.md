@@ -6,7 +6,7 @@ The dataset used for this analysis comprises historical stock prices from the ma
 
 The primary goal of this software is to uncover patterns and insights within the stock market, potentially guiding investment strategies and market understanding. By analyzing historical data, the software aims to answer critical questions about stock performance trends and factors influencing market movements.
 
-[Software Demo Video](http://youtube.link.goes.here) (Please upload your demonstration to YouTube and place the link here.)
+[Software Demo Video](https://www.loom.com/share/b2431b1d016b4fe9990b607f09742a8d?sid=77c86824-3bc2-43b8-925d-f73c98999c33) 
 
 # Data Analysis Results
 
@@ -23,7 +23,7 @@ The questions posed before the analysis, along with the insights uncovered, are 
 
 # Development Environment
 
-- **Tools:** The software was developed using (list your tools, e.g., Visual Studio Code, Jupyter Notebook, etc.)
+- **Tools:** The software was developed using Visual Studio Code.
 - **Languages and Libraries:** The project was implemented in Python, leveraging powerful libraries such as Pandas for data manipulation, Matplotlib and Seaborn for data visualization, and Scikit-learn for implementing machine learning algorithms.
 
 # Useful Websites
